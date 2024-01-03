@@ -63,5 +63,18 @@
   git push origin main
   ```
 
+### 6. git pull
+- **When to use:** Updates local repository to match a remote one.
+- **Example:** 
+  ```bash
+  git pull origin 
+  ```
+
+### 7. git status
+- **When to use:** Shows the current state of the working directory and staging area.
+- **Example:** 
+  ```bash
+  git status
+  ```
 
 	
