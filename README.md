@@ -31,13 +31,6 @@
 - **Web/Mobile:** React, React Native, FastAPI, Flask.
 - **Cloud & Blockchain:** Google Cloud Platform (GCP), Hyperledger Fabric.
 - **Tools:** Docker, Git, SQL, REST APIs.
-
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dsmbrnLois&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Lois's GitHub Stats" height="192px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsmbrnLois&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="192px" />
-</p>
-
 ---
 <p align="center">
   <i>"Transforming data into intelligent solutions, one commit at a time."</i>
